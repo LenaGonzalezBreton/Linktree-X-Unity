@@ -53,6 +53,3 @@ npm run dev
 👩‍💻 **Léna Gonzalez-Breton**
 [LinkedIn](https://www.linkedin.com/in/lenagonzalezbreton/) · [GitHub](https://github.com/LenaGonzalezBreton)
 
----
-
-Souhaites-tu que je t’en fasse une **version plus “pro”** (avec une bannière, badges technos, et un ton plus orienté “candidat alternance”) ?
