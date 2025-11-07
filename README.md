@@ -35,8 +35,8 @@ public/
 
 ```bash
 # Cloner le repo
-git clone https://github.com/lenagonzalezbreton/mini-portfolio.git
-cd mini-portfolio
+git clone https://github.com/lenagonzalezbreton/Lintree-X-Unity.git
+cd Lintree-X-Unity
 
 # Installer les dépendances
 npm install
